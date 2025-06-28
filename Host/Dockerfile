@@ -9,7 +9,7 @@ RUN pip install Flask requests flask_mysqldb
 
 COPY . .
 
-EXPOSE 5000
+EXPOSE 5001
 
 CMD ["python", "app.py"]
 
