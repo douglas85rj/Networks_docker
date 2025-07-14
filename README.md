@@ -1,4 +1,3 @@
-
 # Networks_docker
 
 Projeto de exemplo para integração de múltiplos containers Docker utilizando Flask, MySQL e comunicação entre serviços.
@@ -105,7 +104,7 @@ Repita para os outros serviços conforme necessário.
 O banco de dados e as tabelas são criados automaticamente via `schema.sql` ao iniciar o container MySQL.
 
 - Usuário: `flaskuser`
-- Senha: `280903`
+- Senha: 'SUA SENHA AQUI'
 - Banco: `flaskhost` ou `flaskdocker` (ajuste conforme seu app)
 
 ## Exemplos de uso
